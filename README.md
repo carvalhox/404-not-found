@@ -26,7 +26,7 @@ Link to the challenge:
 ## :link: Live Version
 
 
-You can check the website fully working <a href="https://wildbeast-origamid.netlify.app/">here.</a>
+You can check the website fully working <a href="https://404-notfound-challenge.netlify.app/">here.</a>
 
 
 ## :desktop_computer: Technologies
